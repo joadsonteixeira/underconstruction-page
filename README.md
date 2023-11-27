@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Mobile Preview
+![WhatsApp-Video-2023-11-27-at-15 06 36](https://github.com/joadsonteixeira/underconstruction-page/assets/29464468/93226e0f-d630-4ed1-ac94-3be831cf285e)
+
+## Desktop Preview
+![underconstruction](https://github.com/joadsonteixeira/underconstruction-page/assets/29464468/fcfdfaec-f4df-4618-b1ec-ea17ae988cfb)
+
+
 ## Getting Started
 
 First, run the development server:
