@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  background: linear-gradient(108deg, #2b0057 0%, #00667e 100%);
+}
+
+.text-logo {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+.console-container {
+  background: black;
+  border-radius: 15px;
+  border: 3px #d0d0d0 solid;
+}
+
+.console-top-btn {
+  width: 15px;
+  height: 15px;
+  background: white;
+  border-radius: 9999px;
+}
+
+.console-top-bar {
+  width: 100%;
+  border-bottom: 3px #d0d0d0 solid;
+}
+
+.bg-linkedin {
+  background-color: #0a65c0;
+}
